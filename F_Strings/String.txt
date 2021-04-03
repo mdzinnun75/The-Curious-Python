@@ -1,0 +1,7 @@
+1) id of a string
+2) multiplication of string
+3) length of string
+4) slicing of string
+5) unicode of a string
+6) comparison of strings
+7) methods of string
