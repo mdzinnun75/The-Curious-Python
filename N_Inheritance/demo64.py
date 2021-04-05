@@ -12,6 +12,7 @@ class B(A):
 
     def m1(self, x, y):
         print(x + y)
+        # print(self.x + self.y)
         print(self.x + self.y)
         print(super().x + super().y)
         print(globals()['x'] + globals()['y'])
